@@ -1,6 +1,7 @@
 ﻿public class void main（ string[] args）{
 	public class hh(){
 		System.out.println("ffff");
+		System.out.println("oooo");
 	
 	}
 }
