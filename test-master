@@ -1,12 +1,9 @@
 ﻿public class void main（ string[] args）{
 	public class hh(){
 		System.out.println("ffff");
-<<<<<<< HEAD
 		System.out.println("aaaa");
 		System.out.println("llll");
-=======
 		System.out.println("oooo");
 	
->>>>>>> one
 	}
 }
